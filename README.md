@@ -1,13 +1,17 @@
-A HackerNews Android App.
+Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.1.1] - 2020-02-24
+---
+#### Added
+- Added UI to Launcher Activity.
+- Added Color Palette theme.
+
 ### [0.1.0] - 2020-02-09
 ---
 #### Added
 - First commit.
 - Added Launcher Activity.
-
-<br/>
 
 ## LICENSE
 
