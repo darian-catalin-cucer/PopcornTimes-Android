@@ -1,10 +1,19 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
-### [0.1.1] - 2020-02-24
+### [0.3.0] - 2020-02-25
 ---
 #### Added
-- Added UI to Launcher Activity.
+- Added fonts 'Oxygen' and 'Cambay'.
+- Added Sign-in Activity.
+- Added UI to the Sign-in Activity.
+- Added the right arrow icon.
+- Added the dimensions file under 'res' directory.
+
+### [0.1.0] - 2020-02-24
+---
+#### Added
+- Added UI to the Launcher Activity.
 - Added Color Palette theme.
 
 ### [0.1.0] - 2020-02-09
