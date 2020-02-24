@@ -2,5 +2,10 @@
     <string name="app_name">Popcorn Times</string>
 
     <!-- Launcher Activity -->
-    <string name="content_desc_iv_load_activity_launcher">Image to show animation while the app initiliazation is done in background.</string>
+    <string name="content_desc_iv_load_activity_launcher">Image to show animation while the app initialization is done in background.</string>
+
+    <!-- Sign-in Activity -->
+    <string name="ready">ready\nto\ngrab</string>
+    <string name="popcorn">Popcorn</string>
+    <string name="content_desc_button_proceed_activity_sign_in">Image Button for Proceed functionality.</string>
 </resources>
