@@ -1,6 +1,18 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.4.0] - 2020-2-26
+---
+#### Added
+- Added Phone Auth Activity.
+- Added Phone Number Fragment.
+- Added Phone Number Verification Fragment.
+- Added UI to the Phone Number Fragment.
+
+#### Changed
+- String value files now contains String in alphabetical order for a specific UI component.
+- Image size on the Launcher Activity.
+
 ### [0.3.0] - 2020-02-25
 ---
 #### Added
@@ -10,7 +22,7 @@ Android app for the Popcorn Times platform.
 - Added the right arrow icon.
 - Added the dimensions file under 'res' directory.
 
-### [0.1.0] - 2020-02-24
+### [0.2.0] - 2020-02-24
 ---
 #### Added
 - Added UI to the Launcher Activity.
