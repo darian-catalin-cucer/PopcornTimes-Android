@@ -41,13 +41,13 @@
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="0.5" />
 
+    <!-- Proceed Button -->
     <ImageButton
         android:id="@+id/button_proceed_activity_sign_in"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_margin="@dimen/margin_large"
         android:background="@drawable/circular_button"
-        android:backgroundTint="@color/colorSecondary"
         android:src="@drawable/ic_right_arrow"
         android:contentDescription="@string/content_desc_button_proceed_activity_sign_in"
         app:layout_constraintBottom_toBottomOf="parent"

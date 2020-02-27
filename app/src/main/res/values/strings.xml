@@ -19,4 +19,9 @@
     <string name="movies_tv_shows">movies\ntv shows</string>
 
     <!-- Phone Number Verification Fragment -->
+    <string name="content_desc_button_back_fragment_phone_number_verification">Image Button for Back functionality.</string>
+    <string name="content_desc_button_confirm_fragment_phone_number_verification">Image Button for Confirm functionality.</string>
+    <string name="resend_code">resend code</string>
+    <string name="verify_phone_number">verify phone number</string>
+    <string name="verify_phone_number_desc">please enter the 6 digit\nSMS verification code\nsent to your phone.</string>
 </resources>

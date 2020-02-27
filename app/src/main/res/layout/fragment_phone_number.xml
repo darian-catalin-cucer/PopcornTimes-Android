@@ -32,12 +32,12 @@
         android:textColor="@color/colorSecondary"
         android:textSize="35sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@id/guideline_fragment_phone_number_30p"
+        app:layout_constraintBottom_toTopOf="@id/guideline_fragment_phone_number_35p"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tv_find_fragment_phone_number" />
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline_fragment_phone_number_30p"
+        android:id="@+id/guideline_fragment_phone_number_35p"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -54,7 +54,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@id/tv_something_fragment_phone_number"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/guideline_fragment_phone_number_30p"
+        app:layout_constraintTop_toBottomOf="@id/guideline_fragment_phone_number_35p"
         app:layout_constraintVertical_chainStyle="packed"
         app:layout_constraintVertical_bias="0.4" />
 
@@ -76,6 +76,7 @@
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="0.65" />
 
+    <!-- Phone Number EditText -->
     <EditText
         android:id="@+id/et_enter_phone_number_fragment_phone_number"
         android:layout_width="match_parent"
@@ -97,13 +98,13 @@
         app:layout_constraintVertical_chainStyle="packed"
         app:layout_constraintVertical_bias="0" />
 
+    <!-- Proceed Button -->
     <ImageButton
         android:id="@+id/button_proceed_fragment_phone_number"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginTop="@dimen/margin_large"
         android:background="@drawable/circular_button"
-        android:backgroundTint="@color/colorSecondary"
         android:contentDescription="@string/content_desc_button_proceed_fragment_phone_number"
         android:src="@drawable/ic_right_arrow"
         app:layout_constraintBottom_toBottomOf="parent"
