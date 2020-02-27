@@ -1,6 +1,17 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.5.0] - 2020-2-28
+---
+#### Added
+- Added UI to the Phone Number Verification Fragment.
+- Added comments to the XML layout files.
+- Added style for different UI components in 'styles' file.
+- Added background drawables for:
+  1. OTP Edit Text Outline
+  2. OTP Edit Text Solid
+  3. Regular Button
+
 ### [0.4.0] - 2020-2-26
 ---
 #### Added

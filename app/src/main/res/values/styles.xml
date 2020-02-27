@@ -9,4 +9,16 @@
         <item name="android:fontFamily">@font/oxygen</item>
     </style>
 
+    <style name="OTPEditText">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@drawable/circular_edit_text_otp_outline</item>
+        <item name="android:gravity">center</item>
+        <item name="android:inputType">number</item>
+        <item name="android:layout_marginEnd">@dimen/margin_small</item>
+        <item name="android:layout_marginStart">@dimen/margin_small</item>
+        <item name="android:textColor">@color/colorAccentLight</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
 </resources>
