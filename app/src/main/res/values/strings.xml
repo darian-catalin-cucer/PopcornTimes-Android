@@ -1,17 +1,17 @@
 <resources>
+    <!-- Tallileo -->
     <string name="app_name">Popcorn Times</string>
+    <string name="content_desc_button_proceed">Image Button for Proceed functionality.</string>
 
     <!-- Launcher Activity -->
     <string name="content_desc_iv_load_activity_launcher">Image to show animation while the app initialization is done in background.</string>
 
     <!-- Sign-in Activity -->
-    <string name="content_desc_button_proceed_activity_sign_in">Image Button for Proceed functionality.</string>
     <string name="ready">ready\nto\ngrab</string>
     <string name="popcorn">Popcorn</string>
 
     <!-- Phone Auth Activity -->
     <!-- Phone Number Fragment -->
-    <string name="content_desc_button_proceed_fragment_phone_number">Image Button for Proceed functionality.</string>
     <string name="enter_phone_number">enter your phone number</string>
     <string name="find">find</string>
     <string name="something">find something\ngreat to watch</string>
@@ -24,4 +24,11 @@
     <string name="resend_code">resend code</string>
     <string name="verify_phone_number">verify phone number</string>
     <string name="verify_phone_number_desc">please enter the 6 digit\nSMS verification code\nsent to your phone.</string>
+
+    <!-- New User Basic Details Activity -->
+    <!-- Name Details Fragment -->
+    <string name="content_desc_progress_icon">Icon for showing progress made in filling information for new user set-up.</string>
+    <string name="first_name">first name</string>
+    <string name="middle_name">middle name</string>
+    <string name="last_name">last name</string>
 </resources>

@@ -5,12 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PhoneAuthActivity">
-
-    <fragment
-        android:id="@+id/unique1"
-        android:name="in.aayushgoyal.popcorntimes.PhoneNumberVerificationFragment"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+    android:background="@color/colorPrimary"
+    tools:context=".NewUserBasicDetailsActivity">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
