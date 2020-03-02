@@ -1,7 +1,19 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
-### [0.5.0] - 2020-2-28
+### [0.6.0] - 2020-03-02
+---
+#### Added
+- Added New User Basic Details Activity.
+- Added Name Details Fragment.
+- Added UI to the Name Details Fragment.
+- Added style for different UI components in 'styles' file.
+- Added support for [Circular Image View]https://github.com/hdodenhof/CircleImageView).
+- Added background drawables for:
+  1. Details Filled Progress Icon Outline
+  2. Details Filled Progress Icon Done
+
+### [0.5.0] - 2020-02-28
 ---
 #### Added
 - Added UI to the Phone Number Verification Fragment.
@@ -12,7 +24,7 @@ Android app for the Popcorn Times platform.
   2. OTP Edit Text Solid
   3. Regular Button
 
-### [0.4.0] - 2020-2-26
+### [0.4.0] - 2020-02-26
 ---
 #### Added
 - Added Phone Auth Activity.
@@ -27,7 +39,7 @@ Android app for the Popcorn Times platform.
 ### [0.3.0] - 2020-02-25
 ---
 #### Added
-- Added fonts 'Oxygen' and 'Cambay'.
+- Added fonts [Oxygen](https://fonts.google.com/specimen/Oxygen) and [Cambay](https://fonts.google.com/specimen/Cambay).
 - Added Sign-in Activity.
 - Added UI to the Sign-in Activity.
 - Added the right arrow icon.

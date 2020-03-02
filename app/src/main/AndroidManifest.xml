@@ -18,6 +18,7 @@
         </activity>
         <activity android:name=".SignInActivity" />
         <activity android:name=".PhoneAuthActivity" />
+        <activity android:name=".NewUserBasicDetailsActivity" />
     </application>
 
 </manifest>
