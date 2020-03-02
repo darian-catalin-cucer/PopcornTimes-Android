@@ -1,6 +1,12 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.7.0] - 2020-03-02
+---
+#### Added
+- Added Contact Details Fragment.
+- Added UI to the Contact Details Fragment.
+
 ### [0.6.0] - 2020-03-02
 ---
 #### Added
@@ -8,7 +14,7 @@ Android app for the Popcorn Times platform.
 - Added Name Details Fragment.
 - Added UI to the Name Details Fragment.
 - Added style for different UI components in 'styles' file.
-- Added support for [Circular Image View]https://github.com/hdodenhof/CircleImageView).
+- Added support for [Circular Image View](https://github.com/hdodenhof/CircleImageView).
 - Added background drawables for:
   1. Details Filled Progress Icon Outline
   2. Details Filled Progress Icon Done

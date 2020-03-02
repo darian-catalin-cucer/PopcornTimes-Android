@@ -1,6 +1,7 @@
 <resources>
     <!-- Tallileo -->
     <string name="app_name">Popcorn Times</string>
+    <string name="content_desc_button_back">Image Button for Back functionality.</string>
     <string name="content_desc_button_proceed">Image Button for Proceed functionality.</string>
 
     <!-- Launcher Activity -->
@@ -19,7 +20,6 @@
     <string name="movies_tv_shows">movies\ntv shows</string>
 
     <!-- Phone Number Verification Fragment -->
-    <string name="content_desc_button_back_fragment_phone_number_verification">Image Button for Back functionality.</string>
     <string name="content_desc_button_confirm_fragment_phone_number_verification">Image Button for Confirm functionality.</string>
     <string name="resend_code">resend code</string>
     <string name="verify_phone_number">verify phone number</string>
@@ -31,4 +31,8 @@
     <string name="first_name">first name</string>
     <string name="middle_name">middle name</string>
     <string name="last_name">last name</string>
+
+    <!-- Contact Details Fragment -->
+    <string name="email">email</string>
+    <string name="phone_number">phone number</string>
 </resources>
