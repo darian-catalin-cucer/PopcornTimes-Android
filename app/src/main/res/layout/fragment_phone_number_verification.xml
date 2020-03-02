@@ -125,7 +125,7 @@
             android:layout_height="50dp"
             android:layout_marginEnd="@dimen/margin_medium"
             android:background="@drawable/circular_button"
-            android:contentDescription="@string/content_desc_button_back_fragment_phone_number_verification"
+            android:contentDescription="@string/content_desc_button_back"
             android:src="@drawable/ic_right_arrow"
             android:scaleX="-1" />
 
