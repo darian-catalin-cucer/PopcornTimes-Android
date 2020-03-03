@@ -1,6 +1,14 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.8.0] - 2020-03-04
+---
+#### Added
+- Added Basic Details Fragment.
+- Added UI to the Basic Details Fragment.
+- Added background drawable for:
+  1. Segmented Toggle Gender
+
 ### [0.7.0] - 2020-03-02
 ---
 #### Added

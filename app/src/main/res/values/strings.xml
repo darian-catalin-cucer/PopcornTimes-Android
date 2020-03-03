@@ -35,4 +35,12 @@
     <!-- Contact Details Fragment -->
     <string name="email">email</string>
     <string name="phone_number">phone number</string>
+
+    <!-- Basic Details Fragment -->
+    <string name="content_desc_button_female_fragment_basic_details">Select gender as Female.</string>
+    <string name="content_desc_button_confirm_fragment_basic_details">Select gender as Male.</string>
+    <string name="country">country</string>
+    <string name="date_of_birth">date of birth</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
 </resources>
