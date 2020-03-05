@@ -136,7 +136,7 @@
             android:layout_height="50dp"
             android:layout_marginStart="@dimen/margin_medium"
             android:background="@drawable/circular_button"
-            android:contentDescription="@string/content_desc_button_confirm_fragment_phone_number_verification"
+            android:contentDescription="@string/content_desc_button_confirm"
             android:src="@drawable/ic_confirm" />
 
     </LinearLayout>

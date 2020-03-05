@@ -63,7 +63,7 @@
 
     <!-- Gender Segmented Image Button -->
     <LinearLayout
-        android:id="@+id/et_first_name_fragment_basic_details"
+        android:id="@+id/layout_linear_gender_fragment_basic_details"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@id/et_dob_fragment_basic_details"
@@ -79,7 +79,7 @@
             android:layout_height="50dp"
             android:src="@drawable/ic_female_color_secondary"
             android:background="@drawable/segmented_toggle_gender_background"
-            android:contentDescription="@string/content_desc_button_female_fragment_basic_details" />
+            android:contentDescription="@string/content_desc_button_female" />
 
         <!-- Male Button -->
         <ImageButton
@@ -88,7 +88,7 @@
             android:layout_height="50dp"
             android:src="@drawable/ic_male_color_secondary"
             android:background="@drawable/segmented_toggle_gender_background"
-            android:contentDescription="@string/content_desc_button_female_fragment_basic_details" />
+            android:contentDescription="@string/content_desc_button_male" />
 
     </LinearLayout>
 
@@ -101,14 +101,14 @@
         android:background="@android:color/transparent"
         android:hint="@string/date_of_birth"
         android:autofillHints="birthDateFull"
-        app:layout_constraintBottom_toTopOf="@id/et_last_name_fragment_basic_details"
+        app:layout_constraintBottom_toTopOf="@id/et_country_fragment_basic_details"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/et_first_name_fragment_basic_details" />
+        app:layout_constraintTop_toBottomOf="@id/layout_linear_gender_fragment_basic_details" />
 
     <!-- Country EditText -->
     <EditText
-        android:id="@+id/et_last_name_fragment_basic_details"
+        android:id="@+id/et_country_fragment_basic_details"
         style="@style/DetailsEditText"
         android:layout_margin="@dimen/margin_large"
         android:inputType="textPostalAddress"
@@ -157,7 +157,7 @@
             android:layout_height="50dp"
             android:layout_marginStart="@dimen/margin_medium"
             android:background="@drawable/circular_button"
-            android:contentDescription="@string/content_desc_button_proceed"
+            android:contentDescription="@string/content_desc_button_confirm"
             android:src="@drawable/ic_confirm" />
 
     </LinearLayout>
