@@ -1,6 +1,12 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.9.0] - 2020-03
+---
+#### Added
+- Added Edit Profile Activity.
+- Added UI to the Edit Profile Activity.
+
 ### [0.8.0] - 2020-03-04
 ---
 #### Added

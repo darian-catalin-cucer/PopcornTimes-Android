@@ -9,5 +9,5 @@
         android:width="30dp"
         android:height="30dp"
         android:gravity="center"
-        android:drawable="@drawable/ic_confirm__color_secondary" />
+        android:drawable="@drawable/ic_confirm_color_secondary" />
 </layer-list>
