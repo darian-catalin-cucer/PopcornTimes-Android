@@ -1,5 +1,5 @@
 <resources>
-    <!-- Tallileo -->
+    <!-- Popcorn Times -->
     <string name="app_name">Popcorn Times</string>
     <string name="content_desc_button_back">Image Button for Back functionality.</string>
     <string name="content_desc_button_confirm">Image Button for Confirm functionality.</string>
@@ -44,6 +44,27 @@
     <string name="female">female</string>
     <string name="male">male</string>
 
+    <!-- Home Activity -->
+    <string name="title_activity_home">Home</string>
+    <!-- Home Fragment -->
+    <string name="title_home_fragment">Home</string>
+
+    <!-- Search Fragment -->
+    <string name="title_search_fragment">Search</string>
+
+    <!-- Favorites Fragment -->
+    <string name="title_favorites_fragment">Favorites</string>
+
+    <!-- Profile Fragment -->
+    <string name="amount_zero">₹0</string>
+    <string name="text_about_app">About App</string>
+    <string name="text_basic_details">Basic Details</string>
+    <string name="text_contact_details">Contact Details</string>
+    <string name="text_female">Female</string>
+    <string name="text_male">Male</string>
+    <string name="title_profile_fragment">Profile</string>
+
     <!-- Edit Profile -->
     <string name="edit_profile">edit profile</string>
+
 </resources>

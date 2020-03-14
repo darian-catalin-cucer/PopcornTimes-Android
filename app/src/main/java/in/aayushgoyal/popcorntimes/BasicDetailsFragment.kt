@@ -23,7 +23,7 @@ class BasicDetailsFragment : Fragment() {
                 imageButtonFemale.isSelected = true
                 imageButtonFemale.setImageResource(R.drawable.ic_female)
                 imageButtonMale.isSelected = false
-                imageButtonMale.setImageResource(R.drawable.ic_male_color_secondary)
+                imageButtonMale.setImageResource(R.drawable.ic_male_color_accent_light)
             }
         }
 
@@ -32,7 +32,7 @@ class BasicDetailsFragment : Fragment() {
                 imageButtonMale.isSelected = true
                 imageButtonMale.setImageResource(R.drawable.ic_male)
                 imageButtonFemale.isSelected = false
-                imageButtonFemale.setImageResource(R.drawable.ic_female_color_secondary)
+                imageButtonFemale.setImageResource(R.drawable.ic_female_color_accent_light)
 
             }
         }

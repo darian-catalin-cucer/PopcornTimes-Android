@@ -52,32 +52,32 @@
         <EditText
             android:id="@+id/et_otp_1_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
         <EditText
             android:id="@+id/et_otp_2_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
         <EditText
             android:id="@+id/et_otp_3_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
         <EditText
             android:id="@+id/et_otp_4_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
         <EditText
             android:id="@+id/et_otp_5_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
         <EditText
             android:id="@+id/et_otp_6_fragment_phone_number_verification"
             style="@style/OTPEditText"
-            android:background="@drawable/circular_edit_text_otp_outline" />
+            android:background="@drawable/background_circular_edit_text_otp_outline" />
 
     </LinearLayout>
 
@@ -94,7 +94,7 @@
         android:layout_width="160dp"
         android:layout_height="40dp"
         android:layout_marginBottom="@dimen/margin_x_large"
-        android:background="@drawable/regular_button"
+        android:background="@drawable/background_regular_button"
         android:text="@string/resend_code"
         android:textColor="@color/colorSecondary"
         android:textSize="18sp"
@@ -124,7 +124,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginEnd="@dimen/margin_medium"
-            android:background="@drawable/circular_button"
+            android:background="@drawable/background_circular_button"
             android:contentDescription="@string/content_desc_button_back"
             android:src="@drawable/ic_right_arrow"
             android:scaleX="-1" />
@@ -135,7 +135,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginStart="@dimen/margin_medium"
-            android:background="@drawable/circular_button"
+            android:background="@drawable/background_circular_button"
             android:contentDescription="@string/content_desc_button_confirm"
             android:src="@drawable/ic_confirm" />
 

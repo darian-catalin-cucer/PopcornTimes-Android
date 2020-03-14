@@ -25,7 +25,7 @@
             android:id="@+id/iv_progress_1_fragment_basic_details"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/image_view_progress_done"
+            android:src="@drawable/background_image_view_progress_done"
             android:contentDescription="@string/content_desc_progress_icon" />
 
         <View
@@ -37,7 +37,7 @@
             android:id="@+id/iv_progress_2_fragment_basic_details"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/image_view_progress_done"
+            android:src="@drawable/background_image_view_progress_done"
             android:contentDescription="@string/content_desc_progress_icon" />
 
         <View
@@ -49,7 +49,7 @@
             android:id="@+id/iv_progress_3_fragment_basic_details"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/image_view_progress_outline"
+            android:src="@drawable/background_image_view_progress_outline"
             android:contentDescription="@string/content_desc_progress_icon" />
 
     </LinearLayout>
@@ -77,8 +77,8 @@
             android:id="@+id/button_female_fragment_basic_details"
             android:layout_width="80dp"
             android:layout_height="50dp"
-            android:src="@drawable/ic_female_color_secondary"
-            android:background="@drawable/segmented_toggle_gender_background"
+            android:src="@drawable/ic_female_color_accent_light"
+            android:background="@drawable/background_segmented_toggle_gender_background"
             android:contentDescription="@string/content_desc_button_female" />
 
         <!-- Male Button -->
@@ -86,8 +86,8 @@
             android:id="@+id/button_male_fragment_basic_details"
             android:layout_width="80dp"
             android:layout_height="50dp"
-            android:src="@drawable/ic_male_color_secondary"
-            android:background="@drawable/segmented_toggle_gender_background"
+            android:src="@drawable/ic_male_color_accent_light"
+            android:background="@drawable/background_segmented_toggle_gender_background"
             android:contentDescription="@string/content_desc_button_male" />
 
     </LinearLayout>
@@ -145,7 +145,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginEnd="@dimen/margin_medium"
-            android:background="@drawable/circular_button"
+            android:background="@drawable/background_circular_button"
             android:contentDescription="@string/content_desc_button_back"
             android:src="@drawable/ic_right_arrow"
             android:scaleX="-1" />
@@ -156,7 +156,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginStart="@dimen/margin_medium"
-            android:background="@drawable/circular_button"
+            android:background="@drawable/background_circular_button"
             android:contentDescription="@string/content_desc_button_confirm"
             android:src="@drawable/ic_confirm" />
 
