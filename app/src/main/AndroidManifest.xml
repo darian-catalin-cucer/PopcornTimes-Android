@@ -11,16 +11,28 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".LauncherActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
         </activity>
         <activity android:name=".SignInActivity" />
         <activity android:name=".PhoneAuthActivity" />
         <activity android:name=".NewUserBasicDetailsActivity" />
-        <activity android:name=".EditProfileActivity" />
+        <activity android:name=".HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".EditProfileActivity">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+        </activity>
     </application>
 
 </manifest>

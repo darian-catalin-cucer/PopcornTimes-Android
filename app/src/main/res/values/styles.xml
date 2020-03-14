@@ -39,8 +39,23 @@
     <style name="ProceedButton">
         <item name="android:layout_width">50dp</item>
         <item name="android:layout_height">50dp</item>
-        <item name="android:background">@drawable/circular_button</item>
+        <item name="android:background">@drawable/background_circular_button</item>
         <item name="android:src">@drawable/ic_right_arrow</item>
+    </style>
+
+    <!-- TextView with Image -->
+    <style name="TextViewWithImage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:paddingEnd">@dimen/margin_medium</item>
+        <item name="android:paddingStart">@dimen/margin_medium</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:drawablePadding">@dimen/margin_medium</item>
+        <item name="android:textColor">@color/colorAccentLight</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>

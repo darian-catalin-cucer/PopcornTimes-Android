@@ -139,8 +139,8 @@
             android:id="@+id/button_female_activity_edit_profile"
             android:layout_width="80dp"
             android:layout_height="50dp"
-            android:src="@drawable/ic_female_color_secondary"
-            android:background="@drawable/segmented_toggle_gender_background"
+            android:src="@drawable/ic_female_color_accent_light"
+            android:background="@drawable/background_segmented_toggle_gender_background"
             android:contentDescription="@string/content_desc_button_female" />
 
         <!-- Male Button -->
@@ -148,8 +148,8 @@
             android:id="@+id/button_male_activity_edit_profile"
             android:layout_width="80dp"
             android:layout_height="50dp"
-            android:src="@drawable/ic_male_color_secondary"
-            android:background="@drawable/segmented_toggle_gender_background"
+            android:src="@drawable/ic_male_color_accent_light"
+            android:background="@drawable/background_segmented_toggle_gender_background"
             android:contentDescription="@string/content_desc_button_male" />
 
     </LinearLayout>
@@ -194,7 +194,7 @@
         android:id="@+id/button_confirm_activity_edit_profile"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:background="@drawable/circular_button"
+        android:background="@drawable/background_circular_button"
         android:src="@drawable/ic_confirm"
         android:contentDescription="@string/content_desc_button_confirm"
         app:layout_constraintBottom_toBottomOf="parent"
