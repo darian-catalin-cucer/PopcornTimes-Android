@@ -145,7 +145,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginEnd="@dimen/margin_medium"
-            android:background="@drawable/background_circular_button"
+            android:background="@drawable/background_circular_button_color_secondary"
             android:contentDescription="@string/content_desc_button_back"
             android:src="@drawable/ic_right_arrow"
             android:scaleX="-1" />
@@ -156,7 +156,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginStart="@dimen/margin_medium"
-            android:background="@drawable/background_circular_button"
+            android:background="@drawable/background_circular_button_color_secondary"
             android:contentDescription="@string/content_desc_button_confirm"
             android:src="@drawable/ic_confirm" />
 

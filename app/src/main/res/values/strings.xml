@@ -56,15 +56,31 @@
     <string name="title_favorites_fragment">Favorites</string>
 
     <!-- Profile Fragment -->
+    <string name="heading_basic_details">Basic Details</string>
+    <string name="heading_contact_details">Contact Details</string>
     <string name="amount_zero">₹0</string>
     <string name="text_about_app">About App</string>
-    <string name="text_basic_details">Basic Details</string>
-    <string name="text_contact_details">Contact Details</string>
     <string name="text_female">Female</string>
     <string name="text_male">Male</string>
     <string name="title_profile_fragment">Profile</string>
 
-    <!-- Edit Profile -->
+    <!-- Edit Profile Activity -->
     <string name="edit_profile">edit profile</string>
+
+    <!-- About App Activity -->
+    <string name="app_desc">Popcorn Times is a simple yet powerful platform for all the movie and binge-watch lovers. You can see popular, top-rated, most viewed movies and TV shows at any given time. You can add mark your favourite titles and also add titles to your watchlist.</string>
+    <string name="content_desc_button_email">Image Button for sending email at Popcorn Times.</string>
+    <string name="content_desc_button_facebook">Image Button for visiting Facebook page of Popcorn Times.</string>
+    <string name="content_desc_button_github">Image Button for visiting GitHub repo of Popcorn Times.</string>
+    <string name="content_desc_button_instagram">Image Button for visiting Instagram page of Popcorn Times.</string>
+    <string name="content_desc_button_twitter">Image Button for visiting Twitter page of Popcorn Times.</string>
+    <string name="content_desc_image_app_logo">Image for App logo.</string>
+    <string name="heading_credits">Credits</string>
+    <string name="heading_top_contributors">Top Contributors</string>
+    <string name="text_email_us">Email Us @:</string>
+    <string name="text_follow_us">Follow Us On:</string>
+    <string name="text_make_contributions_at">Make Contributions @:</string>
+    <string name="text_make_contribution_desc">In order to remain Free and Open Source Software we require continuous contributions from our users and those volunteering towards a free and open source community.</string>
+    <string name="version_number">Version Number v1.0.0</string>
 
 </resources>

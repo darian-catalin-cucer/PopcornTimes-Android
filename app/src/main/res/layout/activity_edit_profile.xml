@@ -194,7 +194,7 @@
         android:id="@+id/button_confirm_activity_edit_profile"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:background="@drawable/background_circular_button"
+        android:background="@drawable/background_circular_button_color_secondary"
         android:src="@drawable/ic_confirm"
         android:contentDescription="@string/content_desc_button_confirm"
         app:layout_constraintBottom_toBottomOf="parent"
