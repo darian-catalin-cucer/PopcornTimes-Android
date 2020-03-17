@@ -1,6 +1,12 @@
 Android app for the Popcorn Times platform.
 
 # Changelog
+### [0.11.0] - 2020-03-17
+---
+#### Added
+- Added About App Activity.
+- Added UI to the About App Activity.
+
 ### [0.10.0] - 2020-03-14
 ---
 #### Added
@@ -10,6 +16,7 @@ Android app for the Popcorn Times platform.
 - Added Search Fragment.
 - Added Favorites Fragment.
 - Added Profile Fragment.
+- Added UI to the Profile Fragment.
 - Added icons for all the countries.
 - Added a CHANGELOG.md file for keeping track of change log separately.
 

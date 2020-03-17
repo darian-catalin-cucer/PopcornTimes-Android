@@ -4,7 +4,7 @@
     <item
         android:width="50dp"
         android:height="50dp"
-        android:drawable="@drawable/background_circular_button" />
+        android:drawable="@drawable/background_circular_button_color_secondary" />
     <item
         android:width="30dp"
         android:height="30dp"

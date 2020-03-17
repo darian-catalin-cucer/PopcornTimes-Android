@@ -62,12 +62,12 @@
 
     <!-- Basic Details Text View -->
     <TextView
-        android:id="@+id/tv_text_basic_details_fragment_profile"
+        android:id="@+id/tv_heading_basic_details_fragment_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/margin_large"
         android:layout_marginTop="@dimen/margin_medium"
-        android:text="@string/text_basic_details"
+        android:text="@string/heading_basic_details"
         android:textColor="@color/colorSecondary"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -84,7 +84,7 @@
         android:background="@color/colorSecondary"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tv_text_basic_details_fragment_profile" />
+        app:layout_constraintTop_toBottomOf="@id/tv_heading_basic_details_fragment_profile" />
 
     <!-- Gender TextView -->
     <TextView
@@ -132,18 +132,18 @@
         style="@style/TextViewWithImage"
         android:layout_marginStart="@dimen/margin_medium"
         android:drawableStart="@drawable/ic_birthday"
-        app:layout_constraintBottom_toTopOf="@id/tv_text_contact_details_fragment_profile"
+        app:layout_constraintBottom_toTopOf="@id/tv_heading_contact_details_fragment_profile"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/layout_linear_country_fragment_profile" />
 
     <!-- Contact Details Text View -->
     <TextView
-        android:id="@+id/tv_text_contact_details_fragment_profile"
+        android:id="@+id/tv_heading_contact_details_fragment_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/margin_large"
         android:layout_marginTop="@dimen/margin_large"
-        android:text="@string/text_contact_details"
+        android:text="@string/heading_contact_details"
         android:textColor="@color/colorSecondary"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -160,7 +160,7 @@
         android:background="@color/colorSecondary"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tv_text_contact_details_fragment_profile" />
+        app:layout_constraintTop_toBottomOf="@id/tv_heading_contact_details_fragment_profile" />
 
     <!-- Email TextView -->
     <TextView
