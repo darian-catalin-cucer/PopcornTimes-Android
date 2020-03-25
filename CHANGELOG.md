@@ -1,4 +1,17 @@
 # Changelog
+### [0.13.0] - 2020-03-26
+---
+#### Added
+- Added vector assets for all movie and tv shows genres.
+- Added Movies Fragment.
+- Added TV Shows Fragment.
+- Added UI to the Movies Fragment.
+- Added UI to the Home Fragment.
+  1. Tab Layout
+  2. View Pager
+- Added permission to use Internet.
+- Added support for [Glide](https://bumptech.github.io/glide/) to load images.
+
 ### [0.12.0] - 2020-03-21
 ---
 ### Added

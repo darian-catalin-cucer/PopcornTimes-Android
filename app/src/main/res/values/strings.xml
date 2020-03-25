@@ -51,6 +51,15 @@
     <string name="title_activity_home">Home</string>
     <!-- Home Fragment -->
     <string name="title_home_fragment">Home</string>
+    
+    <!-- Movies Fragment -->
+    <string name="genres">genres</string>
+    <string name="most_popular">most popular</string>
+    <string name="most_viewed">most viewed</string>
+    <string name="recently_viewed">recently viewed</string>
+    <string name="top_rated">top rated</string>
+    
+    <!-- TV Shows Fragment -->
 
     <!-- Search Fragment -->
     <string name="title_search_fragment">Search</string>
