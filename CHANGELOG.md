@@ -1,4 +1,9 @@
 # Changelog
+### [0.14.0] - 2020-03-27
+---
+#### Added
+- Added UI to the TV Shows Fragment.
+
 ### [0.13.0] - 2020-03-26
 ---
 #### Added
