@@ -6,8 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
-import androidx.constraintlayout.widget.ConstraintLayout
 
 import androidx.recyclerview.widget.RecyclerView
 
@@ -15,7 +13,7 @@ class CreditsAdapter(private val context: Context, private val creditsList: List
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CreditsViewHolder {
         val inflater = LayoutInflater.from(context)
-        val view = inflater.inflate(R.layout.list_item_profiles_credits_top_contributors, parent, false)
+        val view = inflater.inflate(R.layout.list_item_profile_credit_top_contributor, parent, false)
         view.findViewById<TextView>(R.id.tv_contribution_amount_list_item_profiles_credits_top_contributors).visibility = View.GONE
         return CreditsViewHolder(view)
     }

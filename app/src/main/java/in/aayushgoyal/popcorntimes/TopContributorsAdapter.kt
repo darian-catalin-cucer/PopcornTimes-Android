@@ -12,7 +12,7 @@ class TopContributorsAdapter(private val context: Context, private val topContri
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TopContributorsAdapter.TopContributorViewHolder {
         val inflater = LayoutInflater.from(context)
-        val view = inflater.inflate(R.layout.list_item_profiles_credits_top_contributors, parent, false)
+        val view = inflater.inflate(R.layout.list_item_profile_credit_top_contributor, parent, false)
         view.findViewById<TextView>(R.id.tv_contribution_type_list_item_profiles_credits_top_contributors).visibility = View.GONE
         view.findViewById<ImageView>(R.id.iv_github_list_item_profiles_credits_top_contributors).visibility = View.GONE
         return TopContributorViewHolder(view)
