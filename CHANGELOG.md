@@ -1,4 +1,14 @@
 # Changelog
+### [0.15.0] - 2020-04-01
+---
+#### Added
+- Added Favorites Fragment.
+- Added Watchlist Fragment.
+- Added UI to the Favorites Fragment.
+- Added UI to the Bookmarks Fragment.
+  1. Tab Layout
+  2. View Pager
+
 ### [0.14.0] - 2020-03-27
 ---
 #### Added
@@ -35,7 +45,7 @@
 - Added Bottom Navigation to the Home Activity.
 - Added Home Fragment.
 - Added Search Fragment.
-- Added Favorites Fragment.
+- Added Bookmarks Fragment.
 - Added Profile Fragment.
 - Added UI to the Profile Fragment.
 - Added icons for all the countries.

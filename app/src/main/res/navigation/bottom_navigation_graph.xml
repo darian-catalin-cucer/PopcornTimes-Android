@@ -20,9 +20,9 @@
 
     <fragment
         android:id="@+id/navigation_favorites"
-        android:name="in.aayushgoyal.popcorntimes.ui.favorites.FavoritesFragment"
+        android:name="in.aayushgoyal.popcorntimes.ui.favorites.BookmarksFragment"
         android:label="@string/title_favorites_fragment"
-        tools:layout="@layout/fragment_favorites" />
+        tools:layout="@layout/fragment_bookmarks" />
 
     <fragment
         android:id="@+id/navigation_profile"
