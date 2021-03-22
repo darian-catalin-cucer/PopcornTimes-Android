@@ -99,5 +99,8 @@
     <string name="text_make_contributions_at">Make Contributions @:</string>
     <string name="text_make_contribution_desc">In order to remain Free and Open Source Software we require continuous contributions from our users and those volunteering towards a free and open source community.</string>
     <string name="version_number">Version Number v1.0.0</string>
+    <string name="title_onboarding">Onboarding</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_profile">Profile</string>
 
 </resources>

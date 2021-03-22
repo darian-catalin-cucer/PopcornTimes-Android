@@ -1,4 +1,10 @@
 # Changelog
+### [0.16.0] - 2021-03-20
+---
+#### Changed
+- Changed the app architecture from Monolith to Modular.
+- Added support for [dokka](https://github.com/Kotlin/dokka).
+
 ### [0.15.0] - 2020-04-01
 ---
 #### Added
