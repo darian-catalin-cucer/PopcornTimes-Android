@@ -20,13 +20,13 @@
 
     <fragment
         android:id="@+id/navigation_favorites"
-        android:name="in.aayushgoyal.popcorntimes.ui.favorites.BookmarksFragment"
+        android:name="in.aayushgoyal.popcorntimes.favorites.BookmarksFragment"
         android:label="@string/title_favorites_fragment"
         tools:layout="@layout/fragment_bookmarks" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="in.aayushgoyal.popcorntimes.ui.profile.ProfileFragment"
+        android:name="in.aayushgoyal.popcorntimes.profile.ui.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
 

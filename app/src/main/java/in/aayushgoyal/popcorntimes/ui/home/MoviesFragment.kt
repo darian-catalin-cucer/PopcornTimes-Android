@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 import `in`.aayushgoyal.popcorntimes.Genre
-import `in`.aayushgoyal.popcorntimes.GenresAdapter
+import `in`.aayushgoyal.popcorntimes.ui.GenresAdapter
 import `in`.aayushgoyal.popcorntimes.R
 import `in`.aayushgoyal.popcorntimes.TitlesHomeFragmentAdapter
 

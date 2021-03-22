@@ -12,18 +12,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LauncherActivity">
-             <intent-filter>
-             <action android:name="android.intent.action.MAIN" />
-             <category android:name="android.intent.category.LAUNCHER" />
-             </intent-filter>
+        <activity android:name=".ui.LauncherActivity">
+<!--             <intent-filter>-->
+<!--                 <action android:name="android.intent.action.MAIN" />-->
+<!--                 <category android:name="android.intent.category.LAUNCHER" />-->
+<!--             </intent-filter>-->
         </activity>
-        <activity android:name=".SignInActivity" />
-        <activity android:name=".PhoneAuthActivity" />
-        <activity android:name=".NewUserBasicDetailsActivity" />
-        <activity android:name=".HomeActivity" />
-        <activity android:name=".EditProfileActivity" />
-        <activity android:name=".AboutAppActivity" />
+        <activity android:name=".ui.home.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

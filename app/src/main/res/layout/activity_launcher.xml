@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
-    tools:context=".LauncherActivity">
+    tools:context=".ui.LauncherActivity">
 
     <ImageView
         android:id="@+id/iv_load_activity_launcher"
